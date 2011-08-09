@@ -5,20 +5,22 @@ a:visited {
 	color: gray;
 }
 body {
-    background-color: black;
+    background-color: #154;
     color: white;
-    margin: 0 auto;
+    margin: 25 auto;
     width: 700px;
     text-align: center;
+    font-family: Georgia;
 }
 img {
     float : right;
-    height : 50px;
+    height : 75px;
+    border: 1px solid #222;
 }
 li {
     background-color: #1E2024;
     border: 1px solid gray;
-    padding: .25em;
+    padding: .75em;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     margin-bottom: .5em;

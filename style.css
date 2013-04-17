@@ -1,13 +1,13 @@
 a:link {
-	color: gray;
+	color: #303030;
 }
 a:visited {
-	color: gray;
+	color: #303030;
 }
 body {
 	font-family: georgia;
-    background-color: #700;
-    color: white;
+    background-color: #F9F9F9;
+    color: black;
     margin: 25 auto;
     width: 700px;
     text-align: center;
@@ -19,7 +19,7 @@ img {
 	border: 1px solid #333;
 }
 li {
-    background-color: #3E4A40;
+    background-color: #7E8A80;
     border: 1px solid gray;
     padding: .75em;
     -moz-border-radius: 5px;

@@ -11,6 +11,7 @@ body {
     margin: 25 auto;
     width: 700px;
     text-align: center;
+    font-family: Georgia;
 }
 img {
     float : right;
@@ -18,7 +19,7 @@ img {
 	border: 1px solid #333;
 }
 li {
-    background-color: #1E2024;
+    background-color: #3E4A40;
     border: 1px solid gray;
     padding: .75em;
     -moz-border-radius: 5px;

@@ -2,12 +2,12 @@
 <title>Ion Gonzalez Ceballos's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Apprentice Author (Level 2)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Pedantic (Level 1)</title><description>Use the flow extension to encourage an orderly and standardized branching model</description></item>
-<item><title>Apprentice Presenter (Level 1)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
+<item><title>Apprentice Socialite (Level 2)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Author (Level 1)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Apprentice Socialite (Level 1)</title><description>pushed a branch to a remote repository using git push</description></item>
+<item><title>Apprentice Stone Mason (Level 2)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
+<item><title>Gipsy (Level 4)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 <item><title>Apprentice Stone Mason (Level 1)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Homeowner</title><description>Set global email address using git config.</description></item>
-<item><title>Baptised</title><description>Set global user name using git config.</description></item>
-<item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
+<item><title>Apprentice Gipsy (Level 3)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
+<item><title>Apprentice Gipsy (Level 1)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 </channel></rss>
